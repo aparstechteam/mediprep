@@ -1,0 +1,1 @@
+import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";import{g as o,j as a,k as s}from"./index.1d9daa21.js";const t={},c=["src"];function l(e,n){return o(),a("div",null,[s("iframe",{src:`https://drive.google.com/file/d/${e.r.mcq_bank.substr(32,33)}/preview`,height:"480",allow:"autoplay",class:"w-full mx-auto"},null,8,c)])}var _=r(t,[["render",l]]);export{_ as default};
